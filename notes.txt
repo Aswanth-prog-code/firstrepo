@@ -1,0 +1,6 @@
+this is my first github repo
+
+1.git config --global user.name Aswanth-prog-name
+2.git config --global user.email aswanthprem07@gmail.com
+3.git init 
+4.git add filename
